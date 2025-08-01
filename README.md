@@ -3,7 +3,7 @@
 This website allows two people to communicate and chat once a connection has been established.
 
 ## Overview
-
+LIVE DEMO - http://127.0.0.1:5500/index.html
 If you copy and paste the code and try to use it on your own, you will be able to make connections using free STUN servers. 
 However, I created my own TURN server for my websites usage only. 
 If you would like to create your own TURN server, which is better at traversing NAT than a STUN server, you can set it up. 
@@ -53,5 +53,3 @@ If you prefer to set up your own TURN server, follow these steps:
    - Update your website code to use your TURN server credentials.
 
 ## Additional Information
-
-For more detailed instructions and information, please refer to the [official documentation](https://github.com/coturn/coturn) of `coturn`.
